@@ -1,1 +1,1 @@
-echo "mani"
+echo "mani";
